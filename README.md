@@ -57,7 +57,7 @@ O código desenvolvido realiza as seguintes funções:
 
 1. **Clone este repositório:**
 
-git clone <url-do-seu-repositório>
+git clone https://github.com/nicdux/Projeto-de-An-lise-de-Dados-Meteorol-gicos---BDMep-INMET.git
 
 
 2. **Instale as dependências necessárias:**
