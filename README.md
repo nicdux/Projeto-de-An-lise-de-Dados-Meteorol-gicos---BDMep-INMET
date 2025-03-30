@@ -1,6 +1,6 @@
 # Projeto de Análise de Dados Meteorológicos - BDMep/INMET
 
-Este projeto faz parte das atividades acadêmicas da disciplina de **Lógica e Programação de Computadores**, da **PUC-Rio Grande do Sul**. O objetivo é analisar dados meteorológicos históricos obtidos através do Banco de Dados Meteorológicos para Ensino e Pesquisa (BDMep), do Instituto Nacional de Meteorologia (INMET).
+ O objetivo é analisar dados meteorológicos históricos obtidos através do Banco de Dados Meteorológicos para Ensino e Pesquisa (BDMep), do Instituto Nacional de Meteorologia (INMET).
 
 ![image](https://github.com/user-attachments/assets/42b45db1-028a-4b36-a9bc-c76349fe8c51)
 
