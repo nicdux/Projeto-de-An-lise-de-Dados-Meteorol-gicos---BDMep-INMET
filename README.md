@@ -2,6 +2,8 @@
 
 Este projeto faz parte das atividades acadêmicas da disciplina de **Lógica e Programação de Computadores**, da **PUC-Rio Grande do Sul**. O objetivo é analisar dados meteorológicos históricos obtidos através do Banco de Dados Meteorológicos para Ensino e Pesquisa (BDMep), do Instituto Nacional de Meteorologia (INMET).
 
+![image](https://github.com/user-attachments/assets/42b45db1-028a-4b36-a9bc-c76349fe8c51)
+
 ---
 
 ## Objetivo do Projeto
@@ -49,19 +51,19 @@ O código desenvolvido realiza as seguintes funções:
 4. **Visualização gráfica:**
    - Exibe gráfico de barras das médias anuais da temperatura mínima para facilitar a análise visual.
 
----
+
 
 ## Como Executar o Projeto
 
 1. **Clone este repositório:**
-```bash
+
 git clone <url-do-seu-repositório>
-```
+
 
 2. **Instale as dependências necessárias:**
-```bash
+
 pip install matplotlib
-```
+
 
 3. **Execute o script Python:**
 ```bash
@@ -94,7 +96,7 @@ Média de temperatura mínima 6/2006: 15.55ºC
 Média geral da temperatura mínima no mês selecionado entre 2006-2016: 16.03ºC
 ```
 
-![Gráfico Exemplo](<adicione-o-link-do-gráfico-gerado>)
+
 
 ---
 
@@ -104,9 +106,6 @@ Este projeto demonstrou a aplicação prática de Python na análise de dados me
 
 ---
 
-**Aluno:** <seu nome>  
-**Turma:** <sua turma>  
-**Disciplina:** Lógica e Programação de Computadores  
-**PUC-RS**
+
 
 
